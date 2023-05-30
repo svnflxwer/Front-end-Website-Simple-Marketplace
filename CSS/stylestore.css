@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  background-repeat: repeat-y;
+  background-size: cover;
+  min-height: 2000px;
+}
+.travis {
+  background-image: url('Images/781050.jpg');
+}
+.travislogo {
+  width: 48px;
+  height: 70px;
+}
+.navbar {
+  background-color: #fe892a;
+}
+.btn {
+  box-shadow: #000000 0 0 12px;
+}
+.paddingnew {
+  padding-top: 130px;
+}
+.paddingnew1 {
+  padding-top: 100px;
+}
+@font-face {
+  font-family: font_brand;
+  src: url(CactusJack.ttf);
+}
+a {
+  font-family: font_brand;
+  font-weight: bold;
+  margin-left: 30px;
+  font-size: 35px;
+}
+.fonth {
+  font-family: font_brand;
+  color: #fe892a;
+  font-size: 100px;
+  font-weight: bold;
+  text-shadow: #000000 0 0 12px;
+}
+.fonth2 {
+  font-family: font_brand;
+  color: #000000;
+  font-size: 100px;
+  font-weight: bold;
+  text-shadow: #a7a7a7 0 0 12px;
+}
+.fonth3 {
+  font-family: font_brand;
+  color: #000000;
+  font-size: 80px;
+  font-weight: bold;
+  text-shadow: #a7a7a7 0 0 12px;
+}
+.fonth4 {
+  font-family: font_brand;
+  color: #000000;
+  font-size: 40px;
+  font-weight: bold;
+  text-shadow: #a7a7a7 0 0 12px;
+}
+.fonth5 {
+  font-family: font_brand;
+  color: #000000;
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: #a7a7a7 0 0 12px;
+}
+.liltitle {
+  text-shadow: #d4d4d4 0 0 6px;
+}
+.lead {
+  color: black;
+  background: rgba(238, 211, 189, 0.2);
+  text-shadow: #000000 0 0 2px;
+  padding: 20px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.highlight {
+  font-family: font_brand;
+  font-size: 140px;
+}
+.jumbotron {
+  margin-right: 450px;
+  padding-top: 60px;
+}
+.cactus {
+  width: 200px;
+}
+.carousel-item {
+  position: relative;
+  height: 900px;
+}
+.productsite {
+  background: #fe892a;
+}
+.row {
+  background: #fe892a;
+  position: relative;
+}
+.sizing {
+  width: 300px;
+}
+.sizetable {
+  width: 100px;
+}
+.table {
+}
+.fontclass {
+  font-weight: bold;
+  font-family: 'Nunito', sans-serif;
+}
+.button {
+  background: linear-gradient(136deg, rgb(65, 3, 54) 0%, rgb(231, 218, 27) 100%);
+  border-radius: 6px;
+  -o-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  width: 160px;
+  box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.15);
+  -o-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.15);
+  -ms-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.15);
+  -webkit-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.15);
+  border: none;
+  margin: 11px 0 50px 0px;
+  cursor: pointer;
+  font-family: 'Nunito', sans-serif;
+  color: rgb(22, 20, 20);
+  font-weight: 700;
+  font-size: 18px;
+}
+.button:hover {
+  background: linear-gradient(136deg, rgb(92, 45, 18) 0%, rgb(255, 2, 2) 100%);
+}
